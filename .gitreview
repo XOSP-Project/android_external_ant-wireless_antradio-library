@@ -1,0 +1,5 @@
+[gerrit]
+host=review.xosp.org
+port=29418
+project=android_external_ant-wireless_antradio-library.git
+defaultbranch=xosp-n-rebase
